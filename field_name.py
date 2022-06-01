@@ -1,0 +1,11 @@
+IMPORT_FILE = "input_0_.csv"
+OUTPUT_FILE = "output.txt"
+DONOR = "捐贈者"
+DONATION_AMOUNT = " 捐贈金額 "
+IMPORT_DATE = "匯入日期"
+RECEIPT = "收據"
+TAXI = "稅"
+EMAIL = "Email"
+SOURCE = "來源"
+DEBUG = False
+READ_ENCODING = 'big5'
